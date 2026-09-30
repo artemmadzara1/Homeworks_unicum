@@ -1,2 +1,2 @@
 # Homeworks_unicum
-only for the unique’s homework
+только для домашнего задания уникум из групы ИИ-81 Маджара артём
